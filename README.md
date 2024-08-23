@@ -9,4 +9,4 @@
    - 必须遵守文件格式
    - 替换时以`database.old.name`进行匹配，`old`其他选项可不填
 3. 运行`kettle_update_config_main.py`
-4. 结果会与`input`文件夹中相同的组织形式导出到`output\`
+4. 结果会与`input`文件夹中相同的组织形式导出到`output/`
