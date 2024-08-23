@@ -1,0 +1,58 @@
+{
+  "database": [
+    {
+      "old": {
+        "name": "必填",
+        "server": "",
+        "type": "MYSQL",
+        "access": "Native",
+        "database": "",
+        "port": "3306",
+        "username": "",
+        "password": ""
+      },
+      "new": {
+        "name": "必填",
+        "server": "",
+        "type": "MYSQL",
+        "access": "Native",
+        "database": "",
+        "port": "3306",
+        "username": "",
+        "password": ""
+      }
+    },
+    {
+      "old": {
+        "name": "必填",
+        "server": "",
+        "type": "MYSQL",
+        "access": "Native",
+        "database": "",
+        "port": "3306",
+        "username": "",
+        "password": ""
+      },
+      "new": {
+        "name": "必填",
+        "server": "",
+        "type": "MYSQL",
+        "access": "Native",
+        "database": "",
+        "port": "3306",
+        "username": "",
+        "password": ""
+      }
+    }
+  ],
+  "root_path": [
+    {
+      "old": "匹配的路径",
+      "new": "要替换的路径"
+    },
+    {
+      "old": "匹配的路径",
+      "new": "要替换的路径"
+    }
+  ]
+}
